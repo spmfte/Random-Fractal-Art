@@ -1,4 +1,4 @@
-##Random Fractal Generator
+Random Fractal Generator
 This script generates and displays a random visual animation, pattern, or fractal using the Python Imaging Library (PIL).
 
 #How it works
