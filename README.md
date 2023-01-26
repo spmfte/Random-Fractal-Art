@@ -1,7 +1,7 @@
 Random Fractal Generator
 This script generates and displays a random visual animation, pattern, or fractal using the Python Imaging Library (PIL).
 
-#How it works
+How it works
 The script first creates a blank canvas using the Image.new() function and sets the canvas size to (500, 500) and background color to white.
 Next, it defines a function called "generate_visual()" which randomly chooses one of three options: animation, pattern, or fractal.
 Depending on the chosen option, the function generates random coordinates, color, and draws the visual using the ImageDraw.Draw() function.
